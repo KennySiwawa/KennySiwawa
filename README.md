@@ -52,12 +52,8 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  <a href="https://public.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/excel/excel_64x64.png" alt="Excel" width="40" height="40"/>
-  </a>
+
+  
 
   <!-- Tools & OS -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
