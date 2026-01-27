@@ -19,6 +19,7 @@
 - Open to collaborating on analytics and fintech projects (dashboards, reporting, automation)
 
 🌍 Languages: **English**, **German**  
+
 😄 Pronouns: He/Him  
 
 ♟ Fun fact: When I’m not coding, you’ll probably find me playing chess – still practicing strategy, just on a different board.
