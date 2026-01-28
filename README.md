@@ -29,8 +29,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,js,mysql,sqlite,pandas,tableau,excel,seaborn,git,linux,css,aws,scikit-learn&theme=dark" alt="My Skills" width="500"/>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,c,js,mysql,sqlite,git,linux,css,aws,scikit-learn,pandas,tableau,excel,seaborn,&theme=dark" alt="My Skills" width="500"/>
 </div>
 
 
