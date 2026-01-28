@@ -28,9 +28,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenny-chikwama) 
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,c,js,mysql,sqlite,pandas,tableau,excel,seaborn,git,linux,css,aws,scikit-learn&perline=3&theme=dark" alt="My Skills" width="500"/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,c,js,mysql,sqlite,pandas,tableau,excel,seaborn,git,linux,css,aws,scikit-learn&theme=dark" alt="My Skills" width="500"/>
 </div>
+
 
 
 
