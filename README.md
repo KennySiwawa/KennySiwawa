@@ -1,6 +1,6 @@
 # Hi, I'm Kenny 👋
 
-**Data Analyst in training @ WBS Coding School | Finance & Banking background**
+**Data Analyst | Finance & Banking Expertise (10+ yrs) | Python, SQL, Tableau, BigQuery | Delivering Data-Driven Business Insights**
 
 💻 I work at the intersection of **data, finance, and technology**, using Python, SQL, and BI tools to turn raw data into clear, actionable insights.
 
